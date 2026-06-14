@@ -1,0 +1,13 @@
+# Build outputs
+app/build/
+build/
+.gradle/
+local.properties
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keep the APK at the repo root for the release workflow
+!app-debug.apk
