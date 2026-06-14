@@ -1,5 +1,13 @@
 # Atari 8-bit Launcher
 
+## 📲 Download APK
+
+**[Tap here to download app-debug.apk](https://github.com/InnovacionesCyA/atari-launcher/raw/main/app-debug.apk)** (55 MB)
+
+Open this link on your Android device, then tap the downloaded file to install.
+
+---
+
 A personal Android launcher for Atari 8-bit (400/800) ROMs. Sideloadable debug APK, built for Pixel 10 XL Pro.
 
 ---
